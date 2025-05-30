@@ -41,5 +41,5 @@ Olá! Sou a **Jennifer Ketelin**, aluna dedicada do curso de Desenvolvimento de 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenniferk.silva@hotmail.com)
 
 ---
-<div align = "center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Feito+com+💜+por+Jennifer+Ketelin" alt="Typing SVG" />
+<div align = "center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Feito+com+💜+por+Jennifer+Ketelin" />
 
