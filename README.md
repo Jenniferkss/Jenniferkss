@@ -43,6 +43,6 @@ Olá! Sou a **Jennifer Ketelin**, aluna dedicada do curso de Desenvolvimento de 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Feito+com+💜+por+Jennifer+Ketelin;Obrigada+por+visitar!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Feito+com+💜+por+Jennifer+Ketelin;Obrigada+por+visitar!+%F0%9F%91%8B"/>
 </p>
 
